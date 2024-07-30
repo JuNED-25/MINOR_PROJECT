@@ -1,2 +1,2 @@
 # MINOR_PROJECT
-restaurant billing system
+restaurant billing system(group project)
